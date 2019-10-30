@@ -737,3 +737,8 @@ A journalist asked a programmer:-what makes code bad?
 Programmer:- No comment 
 
 ***
+Q: "Whats the object-oriented way to become wealthy?"
+
+A: Inheritance
+
+***
